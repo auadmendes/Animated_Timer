@@ -10,18 +10,7 @@ App to care of your plants
         <li>Javascript</li>
         <li>React Native</li>
         <li>Hooks</li>
-        <li>AsyncStorage</li>
-        <li>SVG</li>
-        <li>UseNavigation</li>
-        <li>Lottie</li>
-        <li>Firebase Authentication</li>
-        <li>Firestore</li>
-        <li>Storage from Firebase</li>
-        <li>Unsplash API</li>
-        <li>Google fonts</li>
-        <li>axios</li>
-        <li>date-fns</li>
-        <li>Styled components</li>
+        <li>Animation</li>
       </ul>
     </div>
   </div>
