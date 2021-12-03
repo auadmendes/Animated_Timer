@@ -1,5 +1,5 @@
-# MyPlants
-App to care of your plants
+# Timer
+Animated Timer
 <html>
   <div>
     <h4>Trabalho de acompanhamento #NLW Rocketseat</h4>
